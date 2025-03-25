@@ -5,7 +5,7 @@ const client = new Client({
 });
 
 const TOKEN =
-    "MTM1NDAyNDY4NjUzODcyMzQwOA.GE0jzJ.f4MicNZM44K1JesPERL4XVNVhkhnccEP0cD15s"; // Replace with the new token
+    ""; // Replace with the new token
 const MEMBER_ROLE_ID = "1353965386420457544"; // Member role
 const UNVERIFIED_ROLE_ID = "1353991420649930844"; // Unverified role
 
